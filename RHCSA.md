@@ -1,5 +1,5 @@
-# RHCSA1
-# Redhat System Administration -I
+# RHCSa
+# Redhat System Administration 1 & 2
 # Redhat
 
 - [RHCSA](#RHCSA)
