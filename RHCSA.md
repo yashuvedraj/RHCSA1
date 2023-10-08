@@ -16,8 +16,6 @@
 - [Manage basic networking](#Manage-basic-networking)
 - [Manage users and groups](#Manage-users-and-groups)
 - [Manage security](#Manage-security)
-- [Manage containers](#Manage-containers)
-- [Exercises](#Exercises)
 
 ### Understand and use essential tools
 
