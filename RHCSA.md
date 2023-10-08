@@ -1,4 +1,4 @@
-# RHCSa
+# RHCSA
 # Redhat System Administration 1 & 2
 # Redhat
 
